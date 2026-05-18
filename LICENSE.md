@@ -1,4 +1,4 @@
-# 
+# secure perpetual trading bot scripts is the best perpetual trading bot scripts with auto-leverage and position-sizing. Safe, reliable, and optimized for CEX, DEX, and algorithmic
 
 
 
